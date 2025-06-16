@@ -2,7 +2,7 @@
 
 ## 🌍 Project Overview
 
-**Airbnb Clone Project** is a full-stack accommodation booking platform inspired by Airbnb, developed as part of the ALX Software Engineering Program (ProDev Front-End & Back-End tracks). This project simulates a real-world team-based development environment, with a focus on scalable architecture, clean UI/UX, API design, and deployment.
+**Airbnb Clone Project** is a  accommodation booking platform inspired by Airbnb, developed as part of the ALX Software Engineering Program (ProDev Front-End & Back-End tracks). This project simulates a real-world team-based development environment, with a focus on scalable architecture, clean UI/UX, API design, and deployment.
 
 Users can browse property listings, view details, filter search results, and book stays. The application combines a modular React frontend with a robust backend API and integrates Docker-based deployments and CI/CD pipelines.
 
@@ -10,7 +10,7 @@ Users can browse property listings, view details, filter search results, and boo
 
 ## 🎯 Project Goals
 
-- Build a scalable, full-stack booking platform
+- Build a scalable,  booking platform
 - Implement responsive, user-centered UI using design mockups
 - Practice component-based architecture in React/Next.js
 - Apply backend development with secure REST/GraphQL APIs
@@ -27,11 +27,6 @@ Users can browse property listings, view details, filter search results, and boo
 | Next.js         | Enable server-side rendering and routing        |
 | TypeScript      | Add type safety and scalability to JavaScript   |
 | Tailwind CSS    | Utility-first CSS framework for clean design    |
-| Node.js         | JavaScript runtime for backend development      |
-| Express.js      | Build RESTful APIs and handle server logic      |
-| PostgreSQL      | Structured relational database                  |
-| GraphQL         | Flexible query language for API data fetching   |
-| GitHub Actions  | Automate CI/CD pipelines                        |
 | Figma           | UI/UX design mockups and planning               |
 
 ---
@@ -42,10 +37,7 @@ By completing this project, we aim to:
 
 - Design and implement a real-world product using agile practices
 - Learn scalable UI/UX design principles
-- Understand the structure of complex full-stack applications
-- Gain hands-on experience with REST and GraphQL APIs
 - Collaborate in a team with defined engineering roles
-- Deploy and test using Docker and CI/CD pipelines
 
 ---
 
@@ -58,13 +50,22 @@ By completing this project, we aim to:
 - Deliver fast-loading pages and optimized assets
 - Prioritize responsive/mobile-first design
 
+  
+ ### Best Practices
+ 
+- Code Organization: Maintain clean, modular code structure
+-Version Control: Use feature branches and meaningful commit messages
+-Responsive Design: Ensure mobile-first approach
+-Accessibility: Follow WCAG guidelines
+-Documentation: Keep all project documentation updated
+-Testing: Implement unit and integration tests
+
 ### 🧩 Key Features
 
 - Property search and filtering
 - Detailed property views
 - Secure booking and checkout
-- User authentication and profile
-- Review and ratings system
+- User authentication 
 
 ### 🖥 Primary Pages
 
@@ -141,26 +142,7 @@ All components are designed with **modularity**, **responsiveness**, and **reusa
 
 ---
 
-## 🔐 API Security
 
-| Security Measure  | Purpose                                                    |
-|-------------------|------------------------------------------------------------|
-| Authentication    | Restrict access to registered users                        |
-| Authorization     | Prevent unauthorized data access or modifications          |
-| Rate Limiting     | Avoid abuse and DDoS attacks                               |
-| Input Validation  | Prevent injection attacks and malformed requests           |
-| Data Encryption   | Protect sensitive data (especially during payment and auth)|
-
----
-
-## 🔁 CI/CD Pipeline
-
-Automated testing and deployment help maintain quality and accelerate development.
-
-| Tool            | Purpose                                      |
-|------------------|----------------------------------------------|
-| GitHub Actions   | Run tests, build apps, and deploy on commits |
-| Vercel/Netlify   | Deploy frontend on commit                    |
-
+--do code...
 
 
